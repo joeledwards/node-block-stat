@@ -1,0 +1,16 @@
+{
+  "name": "block-stat",
+  "version": "1.0.0",
+  "description": "Linux block device stats",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "*",
+    "moment": "*",
+    "q": "*"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Joel Edwards <joeledwards@gmail.com>",
+  "license": "MIT"
+}
